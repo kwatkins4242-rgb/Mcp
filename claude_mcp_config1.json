@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "odin": {
+      "url": "http://localhost:8080/mcp",
+      "env": {
+        "MCP_KEY":         "BELLA_2026_BRIDGE_KEY",
+        "MCP_API_KEY":     "odin_40bd50e0ff8b8dcb324b3fef92d05b47"
+      }
+    }
+  }
+}
